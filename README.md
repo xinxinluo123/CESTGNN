@@ -1,7 +1,7 @@
 # CESTGNN
 
-This is a Pytorch implementation of Causal Effect with Spatio-temporal Graph Neural Network for
-Multivariate Time Series Forecasting (CESTGNN). 
+This is a Pytorch implementation of Causal Spatio-Temporal Graph Foresting Against
+Confounding Bias (CSTCB). 
 ![CESTGNN.png](CESTGNN.png)
 
 # Train and Test
